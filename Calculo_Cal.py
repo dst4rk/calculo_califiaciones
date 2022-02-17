@@ -44,5 +44,6 @@ def cal():
 
 if __name__ == '__main__':
     cal()
+time.sleep(10)
 
 #By Maicker Miguel Ravelo Flores (dstark)
